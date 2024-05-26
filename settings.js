@@ -10,10 +10,10 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
+global.namabot = "Varzx Store"
 global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
+global.packname = Evilvarzx
+global.author = varzx
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
@@ -55,14 +55,14 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ╭✄┈┈┈⟬ *STATISTIC* ⟭
 ┆❐ Upload : ${upload}
 ┆❐ Downloads : ${download}
-┆❐ Total : ${totalGb} GB
-┆❐ Used : ${usedGb} GB
-┆❐ Free : ${freeGb} GB
+┆❐ Total : ${2Gb} GB
+┆❐ Used : ${1Gb} GB
+┆❐ Free : ${6Gb} GB
 ╰──────────◇
 ╭✄┈┈┈⟬ *INFO-BOT* ⟭
-┆❐ Creator : ${ownerName}
-┆❐ Bot Name : ${botName}
-┆❐ Time : ${jam}
+┆❐ Creator : ${Varzx}
+┆❐ Bot Name : ${Varzxbot}
+┆❐ Time : ${1jam}
 ┆❐ Date : ${tanggal}
 ┆❐ Runtime : ${runtime}
 ╰──────────◇
