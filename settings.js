@@ -7,10 +7,10 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'slu3FuuVUjnom',
 }
 
-global.namabot = "Bot Store"
+global.namabot = "varzx Store"
 global.namaowner = "Zeeoneofc"
 global.packname = namabot
 global.author = namaowner
@@ -26,7 +26,7 @@ global.prefa = ['-_-']
 global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
     done: 'Done ✅',
-    wait: '_⌛ Sedang di proses_',
+    wait: '_⌛ Santai aja dulu_',
     admin: '_Fitur Khusus Admin Group_',
     botNotAdmin: '_Jadikan Bot Sebagai Admin Terlebih Dahulu_',
     owner: '_Fitur Khusus Owner Bot_',
